@@ -19,7 +19,7 @@
                 <a href="" class="btn bth-lg-primary btn-block">
 
                     <strong>Login With Google</strong>
-
+                    <h1>miluju peraD</h1>
                 </a>
 
             </div>
